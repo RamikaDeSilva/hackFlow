@@ -1,4 +1,6 @@
 
+// Task List
+
 const addTaskInput = document.getElementById('add-task-input');
 const addTaskButton = document.getElementById('add-task-button');
 const taskList = document.getElementById('task-list');
@@ -26,6 +28,8 @@ addTaskInput.addEventListener('keypress', function(event) {
       addNewTask();
     }
 });
+
+// Timer
 
 let Time = 25;
 let Reset = 0;
