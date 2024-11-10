@@ -1,33 +1,27 @@
 body {
   background-color: black;
-}
-
-h1 {
+  text-align: center;
   color: white;
-  text-align: center;
+  font-family: "Zen Dots", sans-serif;
+  font-weight: 100;
+  font-style: normal;
 }
 
-h2 {
+button {
+  padding: 20px;
+  border-radius: 15px;
+  font-size: 35px;
+  margin: 15px;
+  text-align: center;
   color: white;
-  text-align: center;
-}
-
-h3 {
-  color: white;
-  text-align: center;
-}
-
-h4 {
-  color: white;
-  text-align: center;
-}
-
-.Button-Section{
-  text-align: center;
+  font-family: "Zen Dots", sans-serif;
+  font-weight: 100;
+  font-style: normal;
 }
 
 .StartButton{
   background-color: green;
+  
 }
 
 .ResetButton{
