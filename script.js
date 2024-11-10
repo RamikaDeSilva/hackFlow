@@ -19,9 +19,7 @@ function addNewTask () {
     }
 }
 
-addTaskButton[0].addEventListener('click', () => {
-    
-});
+addTaskButton[0].addEventListener('click', addNewTask);
 
 addTaskInput.addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
