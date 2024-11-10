@@ -1,1 +1,35 @@
+body {
+  background-color: black;
+}
 
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+}
+
+.Button-Section{
+  text-align: center;
+}
+
+.StartButton{
+  background-color: green;
+}
+
+.ResetButton{
+  background-color:red;
+}
